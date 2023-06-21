@@ -1,0 +1,16 @@
+# General
+pandas
+
+# modelling
+chainladder
+
+# plotting
+flask
+plotly
+seaborn
+matplotlib
+
+#Interface
+fastapi
+pydantic
+uvicorn
